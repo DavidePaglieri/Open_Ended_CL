@@ -38,11 +38,17 @@ A quick overview of the control architecture, reward function, terrain generatio
 
 To visualise the fully blind robot trained with an open-ended curriculum, you must install the following dependencies:
 
+```shell script
 pip3 install pybullet
 pip3 install absl-py
 pip3 install numpy
 pip3 install opensimplex
+```
 
 clone the repository, then run
 
+```
+git clone https://github.com/DavidePaglieri/Open_Ended_CL.git
+cd Open_Ended_CL
 python3 visualise_generalist.py
+```
