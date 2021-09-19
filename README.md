@@ -1,4 +1,4 @@
-#Open-Ended Curriculum Learning for Dynamic Robot Locomotion
+# Open-Ended Curriculum Learning for Dynamic Robot Locomotion
 
 MSc individual project by Davide Paglieri at Imperial College London.
 
