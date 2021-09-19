@@ -5,35 +5,35 @@ MSc individual project by Davide Paglieri at Imperial College London.
 A quick overview of the control architecture, reward function, terrain generation, training algorithm and results can be seen below. Video of the deployed generalist robot can be found [here](https://www.youtube.com/watch?v=IE6DSlAliQ8) and [here](https://www.youtube.com/watch?v=PUApftlqQ_Y). For more details check the full dissertation [here](https://github.com/DavidePaglieri/Open_Ended_CL/blob/main/project_details/final_report.pdf). Sim2Real will be performed in the future to publish the work.
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/front_page.png" width="665">
+<img style="float: center;" src="project_details/figures/front_page.png" width="800">
 </p>
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/control_architecture.png" width="665">
+<img style="float: center;" src="project_details/figures/control_architecture.png" width="800">
 </p>
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/reward.png" width="665">
+<img style="float: center;" src="project_details/figures/reward.png" width="800">
 </p>
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/terrain_generation.png" width="665">
+<img style="float: center;" src="project_details/figures/terrain_generation.png" width="800">
 </p>
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/terrains.png" width="665">
+<img style="float: center;" src="project_details/figures/terrains.png" width="800">
 </p>
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/generalist_open_ended.png" width="665">
+<img style="float: center;" src="project_details/figures/generalist_open_ended.png" width="800">
 </p>
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/final_plot.png" width="665">
+<img style="float: center;" src="project_details/figures/final_plot.png" width="800">
 </p>
 
 <p align="center">
-<img style="float: center;" src="project_details/figures/deployed_robot.png" width="665">
+<img style="float: center;" src="project_details/figures/deployed_robot.png" width="800">
 </p>
 
 To visualise the fully blind robot trained with an open-ended curriculum, you must install the following dependencies:
