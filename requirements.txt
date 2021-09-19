@@ -1,0 +1,4 @@
+pip3 install pybullet
+pip3 install absl-py
+pip3 install numpy
+pip3 install opensimplex
