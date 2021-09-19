@@ -1,6 +1,6 @@
 Code for the MSc individual project "Open-Ended Curriculum Learning for Dynamic Robot Locomotion" by Davide Paglieri, at Imperial College London.
 
-Quick overview of the control architecture, reward function, terrain generation and training algorithm can be seen below. Video of the deployed robot can be found [here](https://www.youtube.com/watch?v=IE6DSlAliQ8) and [here](https://www.youtube.com/watch?v=PUApftlqQ_Y). For more details check the full dissertation [here](https://github.com/DavidePaglieri/Open_Ended_CL/blob/main/project_details/final_report.pdf).
+Quick overview of the control architecture, reward function, terrain generation, training algorithm and results can be seen below. Video of the deployed generalist robot can be found [here](https://www.youtube.com/watch?v=IE6DSlAliQ8) and [here](https://www.youtube.com/watch?v=PUApftlqQ_Y). For more details check the full dissertation [here](https://github.com/DavidePaglieri/Open_Ended_CL/blob/main/project_details/final_report.pdf). Sim2Real will be performed in the future to publish the work.
 
 <p align="center">
 <img style="float: center;" src="project_details/figures/front_page.png" width="665">
@@ -24,6 +24,10 @@ Quick overview of the control architecture, reward function, terrain generation 
 
 <p align="center">
 <img style="float: center;" src="project_details/figures/generalist_open_ended.png" width="665">
+</p>
+
+<p align="center">
+<img style="float: center;" src="project_details/figures/final_plot.png" width="665">
 </p>
 
 <p align="center">
