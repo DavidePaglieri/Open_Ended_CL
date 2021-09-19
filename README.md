@@ -1,9 +1,7 @@
 This is the code for the project:
 "Curriculum Learning for Dynamic Robot Locomotion on Challenging Terrains" by Davide Paglieri, MSc student in Computing (AI & ML) at Imperial College London.
 
-Quick overview of the project can be seen below. For more details check the full dissertation [here]()
-
-•Control architecture, is based on PMTG and 
+Quick overview of the project can be seen below. For more details check the full dissertation [here](https://github.com/DavidePaglieri/Open_Ended_CL/blob/main/project_details/final_report.pdf)
 
 <p align="center">
 <img style="float: center;" src="project_details/figures/control_architecture.png" width="665">
@@ -20,7 +18,6 @@ Quick overview of the project can be seen below. For more details check the full
 <p align="center">
 <img style="float: center;" src="project_details/figures/terrains.png" width="665">
 </p>
-
 
 <p align="center">
 <img style="float: center;" src="project_details/figures/generalist_open_ended.png" width="665">
