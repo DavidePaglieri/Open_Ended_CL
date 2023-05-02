@@ -30,10 +30,8 @@ def create_steps_map(amplitude, step):
 def create_opensimplex_map(amplitude, feature_size=24):
     num = random.randint(0,1000)
     a = np.zeros((size, size))    
-    simplex = OpenSimplex()
-    for x in range(size):
-        for y in range(0, size):
-            a[x,y] = simplex.noise2d((x+num) /feature_size,(y+num)/feature_size)*amplitude
+    simplex = OpenSimplex(0)
+    a = simplex.noise2array((np.arange(size)+num)/feature_size, (np.arange(size)+num)/feature_size)*amplitude
     return a
 
 
