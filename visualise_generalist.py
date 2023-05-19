@@ -129,7 +129,7 @@ def main():
         done = False
         num_plays = 0
         sum_rewards = 0
-        while not done and num_plays < 600:
+        while not done and num_plays < 1800:
             env.focus_camera_on_robot()
             
             policy.observe(state)
